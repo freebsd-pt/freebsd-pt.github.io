@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FreeBSD</title>
+    <link>https://freebsd.pt/tags/participa/index.xml</link>
+    <description>Recent content on FreeBSD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <copyright> </copyright>
+    <atom:link href="https://freebsd.pt/tags/participa/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contribui &amp; Participa</title>
+      <link>https://freebsd.pt/README/</link>
+      <pubDate>Sun, 30 Oct 2016 00:49:06 +0200</pubDate>
+      
+      <guid>https://freebsd.pt/README/</guid>
+      <description>&lt;p&gt;TODO&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

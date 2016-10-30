@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://freebsd.pt/</loc>
+    <lastmod>2016-10-30T01:29:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freebsd.pt/post/freebsd/</loc>
+    <lastmod>2016-10-30T01:29:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freebsd.pt/README/</loc>
+    <lastmod>2016-10-30T00:49:06+02:00</lastmod>
+  </url>
+  
+</urlset>

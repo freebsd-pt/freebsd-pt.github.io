@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on FreeBSD</title>
+    <link>https://freebsd.pt/post/index.xml</link>
+    <description>Recent content in Post-rsses on FreeBSD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <copyright> </copyright>
+    <lastBuildDate>Sun, 30 Oct 2016 01:29:51 +0200</lastBuildDate>
+    <atom:link href="https://freebsd.pt/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FreeBSD</title>
+      <link>https://freebsd.pt/post/freebsd/</link>
+      <pubDate>Sun, 30 Oct 2016 01:29:51 +0200</pubDate>
+      
+      <guid>https://freebsd.pt/post/freebsd/</guid>
+      <description>
+
+&lt;h1 id=&#34;o-que-é-freebsd&#34;&gt;O que é FreeBSD?&lt;/h1&gt;
+
+&lt;p&gt;O FreeBSD é um sistema operacional livre do tipo
+&lt;a href=&#34;https://www.freebsd.org/doc/en_US.ISO8859-1/articles/explaining-bsd/what-a-real-unix.html&#34;&gt;Unix&lt;/a&gt;
+descendente do BSD desenvolvido pela Universidade de Berkeley.&lt;/p&gt;
+
+&lt;p&gt;O lema do FreeBSD é The Power to Serve, ou seja, &amp;ldquo;O Poder de servir&amp;rdquo;, obviamente
+se referindo a sua aplicação como servidor.&lt;/p&gt;
+
+&lt;p&gt;Os derivados do BSD em geral tem como mascote um diabinho vermelho chamado
+Daemon que significa demônio em grego, mas na realidade se refere a programas
+que rodam na memória autonomamente para servir requisições.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://freebsd.pt/img/beastie.png&#34; alt=&#34;beastie&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;FreeBSD é um avançado sistema operacional para servidor moderna, desktop e
+plataformas de computadores embarcados. Base de código do FreeBSD passou por
+mais de trinta anos de contínuo desenvolvimento, otimização, melhoria e. É
+desenvolvido e mantido por uma equipe grande de indivíduos. FreeBSD fornece
+redes avançadas, recursos de segurança impressionantes e desempenho de classe
+mundial e é usada por alguns dos locais mais movimentados do mundo web e mais
+difundida de rede incorporado e dispositivos de armazenamento.&lt;/p&gt;
+
+&lt;p&gt;Está disponível para as plataformas Intel x86, DEC Alpha, Sparc, PowerPC e PC98
+assim como para as arquiteturas baseadas em processadores de 64bits IA-64 e
+AMD64. Considerado como robusto e estável, geralmente é utilizado em servidores,
+como de Internet ou Proxies, mas também pode ser utilizado como estação de
+trabalho.&lt;/p&gt;
+
+&lt;h1 id=&#34;freebsd-é-livre&#34;&gt;FreeBSD é livre&lt;/h1&gt;
+
+&lt;p&gt;FreeBSD está disponível completamente &lt;a href=&#34;https://www.freebsd.org/copyright/index.html&#34;&gt;livre&lt;/a&gt; incluindo o código fonte.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

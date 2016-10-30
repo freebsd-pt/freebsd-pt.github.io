@@ -1,2 +1,1 @@
-# freebsd-pt.github.io
-web site
+https://freebsd.pt
